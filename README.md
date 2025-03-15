@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ritika Lama.
 - 👀 I’m interested in web and game development, as well as AI. I've recently become more intrigued by software development as well. This reflects my growing passion for creating interactive experiences and building solid applications across different platforms.
 - 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on game development and research projects. 
+- 💞️ I’m looking to collaborate on game/software development and research projects. 
 - 📫 How to reach me ritikatheeng2002@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can write with both my hands.
